@@ -3,7 +3,8 @@ Reference material for experienced developers in need of a refresher. This is no
 
 ## Table of Contents
 1. [Basic Vocabulary](#basic-vocabulary)
-2. [Tutorials and Sources](#tutorials-and-sources)
+2. [Access Modifiers](#access-modifiers)
+3. [Tutorials and Sources](#tutorials-and-sources)
 
 
 ### Basic Vocabulary
