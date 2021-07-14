@@ -10,6 +10,8 @@ Reference material for experienced developers in need of a refresher. This is no
 ### Basic Vocabulary
 - <b><u>abstract</u></b> - a method or class that is inherited, not instantiated
 - <b><u>encapsulation</u></b> - practice of storing private fields in an object and accessing them through "setters" and "getters"
+- <b><u>interface</u></b> - point of interconnection between entities (Wikipedia); Borrowed from Objective-C's "protocol"
+  - interfaces typically contain abstract methods; should NOT store variables; Java's answer to lack of support for multiple inheritance
 - <b><u>immuatable</u></b> - unable to be altered after creation
 - <b><u>JDK</u></b> - Java Development Kit, or the environment Java code is written in
 - <b><u>JVM</u></b> - Java Virtual Machine, or the environment Java Bytecode is executed within
